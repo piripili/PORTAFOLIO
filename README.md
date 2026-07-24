@@ -9,6 +9,7 @@ PORTAFOLIO/
 ├── css/style.css
 ├── js/script.js
 └── assets/profile-placeholder.jpg   ← foto temporal, pendiente de reemplazar
+
 --Lo que ya incluye--
 Fondo animado tipo ShaderGradient en index.html, combinado con glows en CSS para dar un efecto de aurora.
 
