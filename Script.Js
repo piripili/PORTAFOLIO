@@ -1,5 +1,5 @@
 /* =========================================================
-   MACS PORTFOLIO — script.js
+MACS PORTFOLIO — script.js
    ========================================================= */
 document.addEventListener('DOMContentLoaded', () => {
 
